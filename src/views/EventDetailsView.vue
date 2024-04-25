@@ -19,6 +19,7 @@ onMounted(() => {
         console.log(error)
       })
 })
+
 </script>
 
 <template>
@@ -32,5 +33,6 @@ onMounted(() => {
 </template>
 
 <style scoped>
+
 
 </style>
